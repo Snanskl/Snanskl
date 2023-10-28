@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile. I'm currently on a journey to master the art of Business Intelligence with a solid foundation in C# programming.
 
+
 **About Me:**
 - My journey in the world of IT began in early 2022 when I was introduced to C# programming. This led to the creation of multiple desktop applications for my university course, sparking my curiosity for technology.
 - Since my first "Hello World!" program, I've been exploring various IT areas to find my niche. That's when I discovered Business Intelligence, a field that perfectly aligns with my interests.
