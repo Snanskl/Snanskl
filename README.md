@@ -15,5 +15,3 @@ Welcome to my GitHub profile. I'm currently on a journey to master the art of Bu
 
 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/minou-junker-024704250/): Let's connect on LinkedIn to discuss BI trends, share knowledge, or explore potential collaborations!
-
-I'm thrilled to be part of the GitHub community and the ever-evolving world of Business Intelligence. Let's embark on this data-driven journey together!
