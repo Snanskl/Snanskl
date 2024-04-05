@@ -13,5 +13,3 @@ Welcome to my GitHub profile. I'm currently on a journey to master the art of Bu
 - Power BI Projects: As I study "Systemförståelse och verksamhetsprocesser," I'm sharing my Power BI projects here. It's a space where I'm honing my BI skills.
 - SQL Projects: In my free time, I'm exploring SQL to understand its functions and its role in connecting with Power BI.
 
-**Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/minou-junker-024704250/): Let's connect on LinkedIn to discuss BI trends, share knowledge, or explore potential collaborations!
