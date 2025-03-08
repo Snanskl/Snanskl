@@ -1,6 +1,6 @@
 ### Hello, I'm Minou! 👋
 
-Welcome to my GitHub profile. I'm currently on a journey to master the art of Business Intelligence with a solid foundation in C# programming.
+Welcome to my GitHub profile. I'm currently on a journey to master the art of Data Engineer with a solid foundation in C# programming.
 
 
 **About Me:**
